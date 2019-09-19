@@ -27,3 +27,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Copy
+https://github.com/christiannwamba/vue-auth-vuex 
+Vue x Vue-Router x Vuexを使ったAuth処理（email & Password）
